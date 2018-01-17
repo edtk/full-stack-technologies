@@ -19,4 +19,4 @@ CMS's:
   - [WordPress (в разработке)]()
 
 Прочее:
- - [Markdown]()
+ - [Markdown (в разработке)]()
