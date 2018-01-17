@@ -20,4 +20,4 @@ CMS's:
 
 Прочее:
  1. [Markdown]()
- - [x] [Markdown]()
+ - [Markdown]()
