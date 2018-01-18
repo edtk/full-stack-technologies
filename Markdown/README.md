@@ -64,7 +64,7 @@ ___
 
 ------
 
-## Заголовки
+## Выделительный шрифта
 
 ```markdown
 Emphasis, aka italics, with *asterisks* or _underscores_.
