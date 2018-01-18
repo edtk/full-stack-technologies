@@ -1,9 +1,8 @@
-
 # Markdown
 
 1. [Введение. Что такое Markdown?]()
-2. [Текст](#Текст)
-3. [Ссылки]()
+2. [Заголовки](#Текст)
+3. [Выделительный шрифта]()
 4. [Изображения]()
 5. [Списки]()
 6. [Таблицы]()
@@ -12,9 +11,9 @@
 
 ## Введение
 
-***HTML (Hyper Text Markup Language)*** - язык разметки гипертекста. Это система вёрстки (отображения элементов), которая определяет, как и какие элементы должны располагаться на веб-странице.
+***Markdown***  — облегчённый язык разметки, созданный с целью написания максимально читаемого и удобного для правки текста, но пригодного для преобразования в языки для продвинутых публикаций (HTML, Rich Text и других).
 
-Пример простой HTML страницы:
+Пример простой Markdown страницы:
 
 ```html
 <!DOCTYPE html>
@@ -45,17 +44,42 @@
 
 `<p>` -  определяет **текстовый абзац**.
 ___
-## Текст
-___
-## Ссылки
-___
-## Изображения
-___
-## Списки
-___
-## Таблицы
-___
-## Формы
-___
-## Фреймы
-___
+## Заголовки 
+
+```markdown
+# H1
+## H2
+### H3
+#### H4
+##### H5
+###### H6
+```
+
+# H1
+## H2
+### H3
+#### H4
+##### H5
+###### H6
+
+------
+
+## Заголовки
+
+```markdown
+Emphasis, aka italics, with *asterisks* or _underscores_.
+
+Strong emphasis, aka bold, with **asterisks** or __underscores__.
+
+Combined emphasis with **asterisks and _underscores_**.
+
+Strikethrough uses two tildes. ~~Scratch this.~~
+```
+
+Emphasis, aka italics, with *asterisks* or *underscores*.
+
+Strong emphasis, aka bold, with **asterisks** or **underscores**.
+
+Combined emphasis with **asterisks and underscores**.
+
+Strikethrough uses two tildes. ~~Scratch this.~~
