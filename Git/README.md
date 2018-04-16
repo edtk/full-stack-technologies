@@ -11,7 +11,7 @@
 
 ## Введение
 
-***Git (Hyper Text Markup Language)*** - система контроля версий.
+***Git (Hyper Text Markup Language)*** - распределённая система управления версиями.
 
 Пример простой HTML страницы:
 
