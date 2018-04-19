@@ -17,10 +17,10 @@
 
 ## Фреймворки и библиотеки:
 
+- [Laravel (в разработке)](https://github.com/eduardtk/full-stack-technologies/tree/master/Laravel)
 - [Bootstrap (в разработке)]()
 - [jQuery (в разработке)]()
 - [Vue (в разработке)]()
-- [Laravel (в разработке)]()
 
 ## Препроцессоры
 
