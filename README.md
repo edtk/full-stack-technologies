@@ -10,9 +10,9 @@
 ## Фреймворки и библиотеки:
 
 - [Laravel (в разработке)](https://github.com/eduardtk/full-stack-technologies/tree/master/Laravel)
+- [Vue (в разработке)]()
 - [Bootstrap (в разработке)]()
 - [jQuery (в разработке)]()
-- [Vue (в разработке)]()
 
 ## Языки программирования:
 
@@ -38,4 +38,3 @@
 ## Прочее:
 
  - [Markdown (в разработке)]()
-
