@@ -7,6 +7,13 @@
 > - [Вконтакте](https://vk.com/eduardtkachuk) 
 > - [Facebook](https://www.facebook.com/edtkch) 
 
+## Фреймворки и библиотеки:
+
+- [Laravel (в разработке)](https://github.com/eduardtk/full-stack-technologies/tree/master/Laravel)
+- [Bootstrap (в разработке)]()
+- [jQuery (в разработке)]()
+- [Vue (в разработке)]()
+
 ## Языки программирования:
 
   - [HTML / HTML5 (в разработке) ](HTML)
@@ -15,12 +22,9 @@
   - [PHP (в разработке)]()
   - [SQL (в разработке)]()
 
-## Фреймворки и библиотеки:
+## Система контроля версий
 
-- [Laravel (в разработке)](https://github.com/eduardtk/full-stack-technologies/tree/master/Laravel)
-- [Bootstrap (в разработке)]()
-- [jQuery (в разработке)]()
-- [Vue (в разработке)]()
+- [Git (в разработке)]()
 
 ## Препроцессоры
 
