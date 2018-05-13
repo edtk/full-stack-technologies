@@ -13,8 +13,8 @@
 Это руководство написано для лучшего понимания технологии Markdown и принципов её использования.
 
 Полезные ссылки:
-- [Mastering Markdown](https://guides.github.com/features/mastering-markdown/ (недоступная ссылка) "Заголовок ссылки")
-- [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet (недоступная ссылка) "Заголовок ссылки")
+- [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+- [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 ## Введение
 
