@@ -5,8 +5,8 @@
 3. [Заголовки](#Заголовки)
 4. [Форматирование текста]()
 5. [Списки]()
-	- [Нумерованные списки]()
-	- [Маркированные списки]()
+	- [Нумерованный список]()
+	- [Маркированный список]()
 6. [Ссылки]()
 6. [Изображения]()
 7. [Таблицы]()
@@ -96,6 +96,25 @@ Strong emphasis, aka bold, with **asterisks** or **underscores**.
 Combined emphasis with **asterisks and underscores**.
 
 Strikethrough uses two tildes. ~~Scratch this.~~
+
+## Списки
+
+### Нумерованный список
+```markdown
+1. Item 1
+1. Item 2
+1. Item 3
+   1. Item 3a
+   1. Item 3b
+```
+
+### Маркированный список
+```markdown
+* Item 1
+* Item 2
+  * Item 2a
+  * Item 2b
+```
 
 ## Временный текст
 
