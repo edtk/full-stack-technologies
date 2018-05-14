@@ -130,7 +130,7 @@ Strikethrough uses two tildes. ~~Scratch this.~~
 
 ## Сcылки
 Существует два пути создания ссылок.
-
+```markdown
 [Я inline-style ссылка](https://www.google.com)
 
 [Я inline-style ссылка с заголовком](https://www.google.com "Google's Homepage")
@@ -152,7 +152,7 @@ Some text to show that the reference links can follow later.
 [arbitrary case-insensitive reference text]: https://www.mozilla.org
 [1]: http://slashdot.org
 [link text itself]: http://www.reddit.com
-
+```
 ## Горизонтальные линии
 ## Временный текст
 
