@@ -19,7 +19,8 @@
 Полезные ссылки:
 - [Mastering Markdown](https://guides.github.com/features/mastering-markdown/) - документация по работе с Markdown на GitHub на англ.
 - [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) - официальная документация Markdown на англ. 
-- [Dillinger](https://dillinger.io/) - онлайн редактор Markdown. 
+- [Dillinger](https://dillinger.io/) - онлайн редактор Markdown.
+- [Typora](https://typora.io/) - кроссплатформенный редактор Markdown. 
 
 ## Введение
 
@@ -59,7 +60,7 @@ ___
 
 ## Заголовки 
 
-Создание заголовков производится путём помещения знака решетки перед текстом заголовка. Количество знаков «#» соответствует уровню заголовка. HTML предоставляет 6 уровней заголовков.
+Создание заголовков производится путём помещения знака решетки перед текстом заголовка. Количество знаков «#» соответствует уровню заголовка. Markdown предоставляет 6 уровней заголовков.
 
 ```markdown
 # H1
