@@ -1,10 +1,6 @@
 # Технологий Full Stack разработчика
 
-[![GitHub issues](https://img.shields.io/github/issues/edtk/full-stack-technologies.svg)](https://github.com/edtk/full-stack-technologies/issues)
-
-[![GitHub forks](https://img.shields.io/github/forks/edtk/full-stack-technologies.svg)](https://github.com/edtk/full-stack-technologies/network)
-
-
+[![GitHub issues](https://img.shields.io/github/issues/edtk/full-stack-technologies.svg)](https://github.com/edtk/full-stack-technologies/issues) [![GitHub forks](https://img.shields.io/github/forks/edtk/full-stack-technologies.svg)](https://github.com/edtk/full-stack-technologies/network) [![GitHub stars](https://img.shields.io/github/stars/edtk/full-stack-technologies.svg)](https://github.com/edtk/full-stack-technologies/stargazers) [![GitHub license](https://img.shields.io/github/license/edtk/full-stack-technologies.svg)](https://github.com/edtk/full-stack-technologies/blob/master/LICENSE)
 
 Здесь я делюсь  с Вами собственными методичками по технологиям которые изучил и использую в работе.
 
