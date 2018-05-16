@@ -2,6 +2,8 @@
 
 [![GitHub issues](https://img.shields.io/github/issues/edtk/full-stack-technologies.svg)](https://github.com/edtk/full-stack-technologies/issues)
 
+[![GitHub forks](https://img.shields.io/github/forks/edtk/full-stack-technologies.svg)](https://github.com/edtk/full-stack-technologies/network)
+
 
 
 Здесь я делюсь  с Вами собственными методичками по технологиям которые изучил и использую в работе.
