@@ -1,5 +1,9 @@
 # Технологий Full Stack разработчика
 
+[![GitHub issues](https://img.shields.io/github/issues/edtk/full-stack-technologies.svg)](https://github.com/edtk/full-stack-technologies/issues)
+
+
+
 Здесь я делюсь  с Вами собственными методичками по технологиям которые изучил и использую в работе.
 
 > Если у Вас возникнут вопросы и понадобиться помощь можете написать мне по ссылкам ниже.
