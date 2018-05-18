@@ -218,7 +218,7 @@ ___
  
 ## Изображения 
 
-![alt text](https://github.com/edtk/example-markdown.png "Пример изображения")
+![alt text](https://github.com/edtk/full-stack-technologies/blob/master/Markdown/example-markdown.png "Пример изображения")
  
 ## Итог
 
