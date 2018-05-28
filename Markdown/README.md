@@ -217,11 +217,10 @@ ___
 ## Программый код и подсветка синтаксиса
  
 ## Изображения 
-Изображения формируются почти так же как и ссылки, нужно только добавить воскрецательный знак (!) в начале.
+Изображения формируются почти **так же как и ссылки, нужно только добавить воскрецательный знак (!) в начале**.
 ```markdown
 ![Альтернанивный текст](https://github.com/edtk/full-stack-technologies/blob/master/Markdown/example-markdown.png)
 ```
-
 ![Альтернанивный текст](https://github.com/edtk/full-stack-technologies/blob/master/Markdown/example-markdown.png "Пример изображения")
  
 ## Итог
