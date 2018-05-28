@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f135b50d-a02e-4dea-b936-c6ccdd21db31" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Markdown/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Markdown/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -12,13 +13,13 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Markdown/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="407">
-                <caret line="223" column="173" selection-start-line="223" selection-start-column="173" selection-end-line="223" selection-end-column="173" />
+              <first_editor relative-caret-position="424">
+                <caret line="224" column="6" lean-forward="true" selection-start-line="224" selection-start-column="6" selection-end-line="224" selection-end-column="6" />
               </first_editor>
               <second_editor />
             </state>
@@ -74,7 +75,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="K:/bubbles/project/project" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -101,12 +102,14 @@
       <option name="presentableId" value="Default" />
       <updated>1526472579117</updated>
       <workItem from="1526472582392" duration="8958000" />
-      <workItem from="1526625323488" duration="8967000" />
+      <workItem from="1526625323488" duration="10640000" />
+      <workItem from="1526889358380" duration="218000" />
+      <workItem from="1527509304360" duration="176000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17925000" />
+    <option name="totallyTimeSpent" value="19992000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -169,6 +172,16 @@
     <entry file="file://$PROJECT_DIR$/Markdown/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
+          <first_editor relative-caret-position="3791">
+            <caret line="223" column="94" selection-end-line="225" selection-end-column="139" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Markdown/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
           <first_editor relative-caret-position="68">
             <caret line="4" column="25" lean-forward="true" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
           </first_editor>
@@ -186,8 +199,8 @@
     <entry file="file://$PROJECT_DIR$/Markdown/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="407">
-            <caret line="223" column="173" selection-start-line="223" selection-start-column="173" selection-end-line="223" selection-end-column="173" />
+          <first_editor relative-caret-position="424">
+            <caret line="224" column="6" lean-forward="true" selection-start-line="224" selection-start-column="6" selection-end-line="224" selection-end-column="6" />
           </first_editor>
           <second_editor />
         </state>
