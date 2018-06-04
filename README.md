@@ -19,11 +19,13 @@
 
 ## Языки программирования:
 
-  - [HTML / HTML5 (в разработке) ](HTML)
-  - [CSS / CSS3 (в разработке)]()
-  - [JavaScript (в разработке)]()
-  - [PHP (в разработке)]()
-  - [SQL (в разработке)]()
+- [HTML / HTML5 (в разработке) ](HTML)
+- [CSS / CSS3 (в разработке)]()
+- [JavaScript (в разработке)]()
+- [PHP (в разработке)]()
+- [SQL (в разработке)]()
+- [Markdown](https://github.com/edtk/full-stack-technologies/tree/master/Markdown)
+
 
 ## Система контроля версий
 
@@ -31,14 +33,25 @@
 
 ## Препроцессоры
 
-- [Less (в разработке)]()
 - [Sass (в разработке)]()
 
 ## CMS's:
 
-  - [WordPress (в разработке)]()
+- [WordPress (в разработке)]()
+
+## Менеджеры пакетов
+
+- [NPM (в разработке)]()
+- [Composer (в разработке)]()
+
+## Сборщики проектов
+
+- [Webpack (в разработке)]()
+
+## Тестирование
+
+- [PHP Unit (в разработке)]()
 
 ## Прочее:
 
- - [Markdown](https://github.com/edtk/full-stack-technologies/tree/master/Markdown)
- - [Docker (в разработке)]()
+- [Docker (в разработке)]()
