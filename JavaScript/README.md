@@ -22,6 +22,7 @@
 - [Современный учебник Javascript](http://learn.javascript.ru/) - один из самых популярных ресурсов для изучения JavaScript на рус.
 - [Введение в JavaScript](https://developer.mozilla.org/ru/docs/Web/JavaScript/Guide/Введение_в_JavaScript) - документация по JavaScript от Mozilla на рус.
 - [Javascript-джедай](https://www.youtube.com/watch?v=H6G63NKRSi8&list=PL363QX7S8MfSxcHzvkNEqMYbOyhLeWwem) - Видео курс от Sorax.
+- [MSDN](http://msdn.microsoft.com/) - справочник от Microsoft. Там много информации, в том числе и по JavaScript (они называют его «JScript»). Если нужно что-то, специфичное для IE – лучше лезть сразу туда.
 
 ## Введение
 
