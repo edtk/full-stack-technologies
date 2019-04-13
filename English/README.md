@@ -3,6 +3,8 @@
 ## Меню
 
   - [Настоящее время (Present simple)](./present-simple.md)
+  - [Прошедшее время (Past simple)](./past-simple.md)
+  - [Будущее время (Future simple)](./future-simple.md)
 
 ## Ссылки
 
