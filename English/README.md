@@ -2,7 +2,7 @@
 
 ## Меню
 
-  - [Настоящее время (Present simple)](/present-simple.md)
+  - [Настоящее время (Present simple)](./present-simple.md)
 
 ## Ссылки
 
