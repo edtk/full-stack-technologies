@@ -10,11 +10,13 @@
 C:\mongodb\bin> mongod --directoryperdb --dbpath C:\mongodb\data\db --logpath C:\mongodb\log\mongo.log --logappend --rest --install
 ```
 
-directoryperdb - отдельная папка под отдельную базу.
-dbpath - путь к базам.
-logpath - путь к логу.
+`directoryperdb` - отдельная папка под отдельную базу.<br>
+`dbpath` - путь к базам.<br>
+`logpath` - путь к логу.<br>
 
 Чтобы проверить что MongoDB работает.
+
+На **Windows** нужно запустить `mongo.exe` в папке установки.
 
 После запуска нужно ввести.
 
@@ -42,10 +44,36 @@ mongoose.connect('mongodb://localhost/youtube-video', {
 
 ## Создание схемы
 
-
-
 ## Сохранение модели
 
+## Создание базы данных
 
+## Основные команды
 
-##
+Чтобы работать с MongoDB можно использовать CLI или MongoDB Compass.
+
+```bash
+# Создать базу данных
+use new_database
+# Проверить текущую базу данных
+db
+# Показать все базы данных
+show dbs
+# Но чтобы сохранить базу нужно её заполнить
+db.new_collection.insert({ some_key: "some_value" })
+# Создать нового пользователя с разрешениями записи
+db.createUser(
+  {
+    user: "new_user",
+    pwd: "some_password",
+    roles: [ { role: "readWrite", db: "new_database" } ]
+  }
+)
+# Поиск всех
+db.new_collection.find()
+# Показать коллекции
+show collections
+# Получение статистики
+db.stats()
+```
+
